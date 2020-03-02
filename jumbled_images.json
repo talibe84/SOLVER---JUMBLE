@@ -1,0 +1,28 @@
+{
+    "inputs": [
+        {
+            "image_id": 2,
+            "word": "bnedl",
+            "circled_spots":[0,4],
+            "solution_segments": [3,4,3]
+        },
+        {
+            "image_id": 2,
+            "word": "idova",
+            "circled_spots":[0,3,4],
+            "solution_segments": [3,4,3]
+        },
+        {
+            "image_id": 2,
+            "word": "seheyc",
+            "circled_spots":[1,5],
+            "solution_segments": [3,4,3]
+        },
+        {
+            "image_id": 2,
+            "word": "aracem",
+            "circled_spots":[1,4,5],
+            "solution_segments": [3,4,3]
+        }      
+    ]
+}
