@@ -1,0 +1,136 @@
+{
+    "inputs": [
+        {
+           "image_id": 1,
+           "word": "nagld",
+           "circled_spots":[1,3,4],
+           "solution_segments": [3,4,4]
+        },
+        {
+            "image_id": 1,
+            "word": "ramoj",
+            "circled_spots":[2,3],
+            "solution_segments": [3,4,4]
+        },
+        {
+            "image_id": 1,
+            "word": "wraley",
+            "circled_spots":[0,1,3],
+            "solution_segments": [3,4,4]
+        },
+        {
+            "image_id": 1,
+            "word": "comble",
+            "circled_spots":[0,2,4],
+            "solution_segments": [3,4,4]
+        },
+        {
+            "image_id": 2,
+            "word": "bnedl",
+            "circled_spots":[0,4],
+            "solution_segments": [3,4,3]
+        },
+        {
+            "image_id": 2,
+            "word": "idova",
+            "circled_spots":[0,3,4],
+            "solution_segments": [3,4,3]
+        },
+        {
+            "image_id": 2,
+            "word": "seheyc",
+            "circled_spots":[1,5],
+            "solution_segments": [3,4,3]
+        },
+        {
+            "image_id": 2,
+            "word": "aracem",
+            "circled_spots":[1,4,5],
+            "solution_segments": [3,4,3]
+        },
+        {
+            "image_id": 3,
+            "word": "shast",
+            "circled_spots":[0,3,4],
+            "solution_segments": [4,8]
+        },
+        {
+            "image_id": 3,
+            "word": "doore",
+            "circled_spots":[0,1,3],
+            "solution_segments": [4,8]
+        },
+        {
+            "image_id": 3,
+            "word": "ditnic",
+            "circled_spots": [0,1,2],
+            "solution_segments": [4,8]
+        },
+        {
+            "image_id": 3,
+            "word": "catili",
+            "circled_spots": [0,2,5],
+            "solution_segments": [4,8]
+        },
+        {
+            "image_id": 4,
+            "word": "knidy",
+            "circled_spots": [0,1],
+            "solution_segments": [8]
+        },
+        {
+            "image_id": 4,
+            "word": "legia",
+            "circled_spots": [0,2],
+            "solution_segments": [8]
+        },
+        {
+            "image_id": 4,
+            "word": "cronee",
+            "circled_spots": [1,3],
+            "solution_segments": [8]
+        },
+        {
+            "image_id": 4,
+            "word": "tuvedo",
+            "circled_spots": [0,5],
+            "solution_segments": [8]
+        },
+        {
+            "image_id": 5,
+            "word": "gyrint",
+            "circled_spots": [0,1,3],
+            "solution_segments": [6,8]
+        },
+        {
+            "image_id": 5,
+            "word": "drivet",
+            "circled_spots": [2,5],
+            "solution_segments": [6,8]
+        },
+        {
+            "image_id": 5,
+            "word": "snamea",
+            "circled_spots": [0,5],
+            "solution_segments": [6,8]
+        },
+        {
+            "image_id": 5,
+            "word": "ceedit",
+            "circled_spots": [1,3,5],
+            "solution_segments": [6,8]
+        },
+        {
+            "image_id": 5,
+            "word": "sowdah",
+            "circled_spots": [0,3],
+            "solution_segments": [6,8]
+        },
+        {
+            "image_id": 5,
+            "word": "elchek",
+            "circled_spots": [1,5],
+            "solution_segments": [6,8]
+        }              
+    ]
+}
