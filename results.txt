@@ -1,0 +1,5 @@
+Solution for image:2, is: ['are', 'acid', 'may']
+Solution for image:1, is: ['and', 'more', 'call']
+Solution for image:4, is: ['addition']
+Solution for image:3, is: ['here', 'occasion']
+Solution for image:5, is: ['design', 'retrieve’]
